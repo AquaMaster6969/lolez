@@ -1,0 +1,25 @@
+body
+{
+    background-color: darkgoldenrod;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:400px;
+    height: 250px;
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+#logo_img
+{
+    width: 150px;
+
+}
+#textbox
+{
+    width: 300px;
+}
